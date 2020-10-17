@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ellie Dove
+title:
 ---
 
 Student at University of Maryland, Baltimore County
