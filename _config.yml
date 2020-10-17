@@ -19,7 +19,7 @@ email: "edove1@umbc.edu"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  elliedove
+#github_username:  elliedove
 
 repository: "nicolas-van/bootstrap-4-github-pages"
 
